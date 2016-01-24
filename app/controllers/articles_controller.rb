@@ -28,7 +28,7 @@ class ArticlesController < ApplicationController
    def show
 
 
-  end
+   end
 
 
   def update
